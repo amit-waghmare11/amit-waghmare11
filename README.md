@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing football
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 
 <!---
 amit-waghmare11/amit-waghmare11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
